@@ -6,7 +6,7 @@
 ![Screenshot (57)](https://user-images.githubusercontent.com/89316721/151328780-4a539170-fd39-46cb-9e2d-21bbb846185d.png)
 
 
-Resposive
+
 ![Screenshot (69)](https://user-images.githubusercontent.com/89316721/151331184-df821a30-45f6-40d0-bbd3-f38ec39998d5.png)
 ![Screenshot (64)](https://user-images.githubusercontent.com/89316721/151331171-de66628d-b6b5-4160-ad5b-560788bdee38.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/89316721/151331175-50063c92-362a-4f48-afd2-b4d4396de21d.png)
